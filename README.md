@@ -1,2 +1,2 @@
 # SpaceShoot2D
-A 2D space shooter game built with Unity.
+SpaceShoot2D is an exciting, fast-paced 2D space shooter that takes players on an adrenaline-filled adventure through the stars. Armed with a powerful spaceship, players will navigate through vibrant, alien-infested galaxies, dodging asteroids and enemy fire while collecting power-ups and upgrades. With intuitive controls, thrilling combat, and stunning pixel-art visuals, SpaceShoot2D brings retro arcade action to life in a modern setting. Prepare for a challenge as you face wave after wave of enemies in your quest to save the universe. Can you master the stars and become the ultimate space hero?
