@@ -15,6 +15,16 @@
 # Ignore Unity's Library folder
 /Library/
 
+# Ignore at any level
+Library/
+Temp/
+UserSettings/
+
+# Also ignore nested in SpaceShoot2D
+SpaceShoot2D/Library/
+SpaceShoot2D/Temp/
+SpaceShoot2D/UserSettings/
+
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
 *.blend1.meta
