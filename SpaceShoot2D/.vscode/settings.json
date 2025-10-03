@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "SpaceShoot2D.sln"
+    "dotnet.defaultSolution": "SpaceShoot2D.sln",
+    "git.ignoreLimitWarning": true
 }
